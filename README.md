@@ -16,7 +16,7 @@ Apalabrados es un primer desafío del programa PlatziMaster, para evaluar las ha
 | `Tipo`      | Lógica.       |
 
 
-###¡Juguemos a separar caracteres!
+### ¡Juguemos a separar caracteres!
 
 Para este reto debes crear una base de datos con las siguientes tablas: 
 
@@ -30,14 +30,14 @@ Debes realizar una aplicación que a través de un input analizará lo que ha in
 * Si es un texto, debe almacenar en la tabla texto. Guarda el input en la columna texto, el caracter inicial se guarda en la columna inicial y el caracter final se guarda en la columna final.
 * Si el input tiene algún caracter especial como tilde, coma, punto y coma, punto, numeral o parecidos, debe extraerlo del input y enviar el caracter a la tabla caracteres, columna caracter. El resto del input se descarta.
 
-###Entregable
+### Entregable
 
 * Debes enviar la url de tu proyecto en github, debe estar público y contar con un README.md con las instrucciones de uso de la aplicación.
 * Debes desplegar esta aplicación y enlazar esta url en el README del proyecto. 
 * Debes dejar indicaciones de descarga del repositorio.
 * Debes entregar el diagrama de flujo de esta aplicación como parte de tu README.
 
-###Uso de la Aplicación
+### Uso de la Aplicación
 
 La aplicación fue desarrollada con python 3, es una aplicación de consola y para poder ejecutarla se deben seguir los siguientes pasos en ambiente mac, para windows o linux, podría haber alguna modificación en los comandos.
 
